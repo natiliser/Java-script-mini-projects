@@ -1,0 +1,11 @@
+pre {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    font-family: monospace;
+    white-space: pre-wrap;
+  }
+
+  body{
+    background-color: salmon;
+  }
