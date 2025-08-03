@@ -1,0 +1,40 @@
+td:hover{
+    background-color: bisque;
+}
+
+td {
+    width: 50px;       /* רוחב קבוע */
+    height: 50px;      /* גובה קבוע */
+    text-align: center; /* מרכז את הטקסט */
+    vertical-align: middle; /* מרכז אנכית */
+    border: 1px solid black; /* מסגרת */
+    font-size: 24px;    /* גודל פונט */
+    cursor: pointer;    /* משנה את העכבר ליד */
+}
+
+table{
+    border: 2px;
+    background-color: chocolate;
+}
+
+button:hover{
+    padding: 2px;
+    background-color: gold;
+}
+
+body{
+    background-size: cover;
+    background-image: url(./1.JPG);
+    
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.result{
+    text-align: center;
+}
